@@ -86,7 +86,7 @@ public class ChooseAndWin {
         names.add("Поющая кукла");
         names.add("Воздушный змей");
         names.add("Сундучок с сокровищами");
-        names.add("Котёнок");
+        names.add("Кошечка");
     }
 
     private  Integer getClosest(List<Integer> sortedList, Integer key) {

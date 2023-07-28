@@ -4,14 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3cba4ddd-bfbd-48cb-a0b8-a8db12d6e05e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ChooseToysAndWin.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    <list default="true" id="3cba4ddd-bfbd-48cb-a0b8-a8db12d6e05e" name="Changes" comment="push to git">
+      <change beforePath="$PROJECT_DIR$/src/ChooseAndWin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ChooseAndWin.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +46,21 @@
       <option name="presentableId" value="Default" />
       <updated>1690573620503</updated>
     </task>
+    <task id="LOCAL-00001" summary="push to git">
+      <created>1690575662847</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1690575662847</updated>
+    </task>
+    <task id="LOCAL-00002" summary="push to git">
+      <created>1690575683695</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1690575683695</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -64,5 +73,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="push to git" />
+    <option name="LAST_COMMIT_MESSAGE" value="push to git" />
   </component>
 </project>
